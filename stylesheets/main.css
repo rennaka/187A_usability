@@ -1,0 +1,43 @@
+.container  {
+            margin: auto;
+            position: relative;   
+}
+
+
+#navbar ol 		{  		
+ 	
+       		 	float: center;
+       		 	top: 0px;
+       		 	margin: 10px;
+       		 	padding: 0;
+       		 	background-color: none;
+       		 	border-bottom: 0px solid black;
+       		 	list-style: none;   		
+			font-size: 25px;
+			margin: 0px;
+			text-align: center;
+
+					
+			}
+				
+#navbar ol li	        {
+			display: inline; 
+			text-align: center;
+			right: 0px;
+			font-size: 25px;
+			}
+				
+#navbar ol li a 	{
+			text-decoration: none;
+                        padding: .2em 1em;
+                        color: black;
+			background-color: none;
+			text-align: center;
+			}
+				
+#navbar ol li a:hover 	{
+        		background-color: gray;
+        		color: white;
+        		text-decoration: none;
+     			text-align: center; 
+     			}
