@@ -1,0 +1,40 @@
+1) VISIBILITY: "where am i?"
+nav bar: switches colors after home page.
+header under navbar is quite strange.
+ex/ "academic affairs" header. link: semester course schedules. new header: "about us" new title: "schedule of classes"
+so many different layouts
+-continuing education
+-research, grad school, distance learning(diff bg color)
+it seems like the "university website" is just a portal site to a bunch of different pages with assorted layouts, color schemes and logos
+some open in new tabs, some don't (ex: ce.louisiana.edu vs museum.louisiana.edu)
+2) LANGUAGE
+about us page: what the heck is "economic impact" and "sacs-coc reaffirmation of accreditation" and "strategic plan" and what's a "university organizational chart"--is that a chart of the different organizations in the university?
+the page is a little mixed up, speaking to a bunch of different users without much organization. the headers that need explaining are the ones that aren't explained
+3) USER IN CONTROL
+does not always indicate if it's a link to pdf
+ex/ about us page vs vistors --> campus map(pdf)
+definitely feels like i'm getting jostled around a bunch of different sites and pdf documents. definitely can't always get back home in one shot because linked sites don't always have a home link. 
+4) CONSISTENCY
+if the url is something.louisiana.edu, it should probably use the same template as the global home. but it doesnt.
+ex/studyabroad.louisiana.edu
+how many different templates are they using??
+"news" --> "communications and marketing"
+"about us" navbar on every user portal page. weird.
+link styles: (about us) red title, tan background, black description OR (academic affairs) black title, red linked description slash sublinks OR red linked title, black description.
+5) ERROR PREVENTION
+email search relies on users reading the instructions to prevent error.
+6) RECOGNITION
+no breadcrumbs
+email search page: they do a good job at letting me know that i probably should not use this tool.
+7) FLEXIBILITY AND EFFICIENCY
+direct link to ULink portal for current students on homepage and very top navigation on other pages
+not much else...
+8) AESTHETICS
+sort of half-assed. home page is nice. but all the stuff they stick in between the sliced home page thingy doesn't quite follow
+9) ERROR RECOVERY
+encountered error. home-->academics-->undergrad and grad programs-->arts-->fastfacts
+clear indication of problem with three suggestions
+also asks user to report the error but does not give adequate instruction: i don't know who the author of the referring page is, and the webmaster's email is different from the email in the site footer. is it the correct email or is this error page itself out of date?
+bad error page. schedule of classes-->list of courses-->logon-->cancel
+10) HELP
+search and index
