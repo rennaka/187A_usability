@@ -14,6 +14,7 @@
        	    list-style: none;   		
 	    font-size: 10px;
 	    text-align: center;
+            font-family: Cambria;
 }
 				
 #navbar ol li{
@@ -114,6 +115,7 @@ h4{
     background-color: #EEEEE0;
     height: 490px;
     margin:10px;
+    font-size: large;
 }
 
 .title{
@@ -172,9 +174,12 @@ h4{
 }
 
 #text{
-    margin:15px;
+    margin:16px;
+    font-size: medium;
+    font-family: Cambria;
 }
 
 #sizetext{
     font-size: 15px;
 }
+
