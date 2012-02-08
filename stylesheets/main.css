@@ -143,8 +143,6 @@ h4{
        	    border-bottom: 0px solid black;
        	    list-style: none;   		
 	    font-size: 14px;
-            width: 220px;
-            position: fixed;
               
 }
 
@@ -159,8 +157,6 @@ h4{
     margin-top:5px;
     margin-left: 10px;
     margin-bottom: auto;
-    width: 700px;
-    position: float;
 }
 
 .criteria{
