@@ -195,3 +195,13 @@ h4{
 .span5{
     margin-top: 10px;
 }
+
+/*Nielsen page */
+
+.nielsen{
+    margin:10px;
+    padding: 6px;
+    height: 100px;
+    width: 910px;
+    color: white;
+}
