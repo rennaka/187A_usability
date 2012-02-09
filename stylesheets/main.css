@@ -107,6 +107,11 @@ footer{
     margin: 10px;
 }
 
+.footer2{
+    text-align: center;
+    margin: 15px;
+}
+
 h4{
    text-align: center;
    margin: 15px;
@@ -206,3 +211,28 @@ h4{
     width: 910px;
     color: white;
 }
+
+/*Contcat page */
+
+.contactpage{
+    margin-left: 100px;
+    margin-top: 20px; 
+}
+
+.contactpage2{
+    background-color: #EEEEE0;
+    
+}
+
+.contactpage3{
+    margin-left: 138px;
+    margin-top: 20px; 
+}
+
+#orientation{
+    margin-left: 20px;
+    width: 940px;
+    
+}
+
+
