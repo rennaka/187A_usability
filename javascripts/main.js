@@ -14,8 +14,8 @@ $(document).ready(function() {
 					}
 				},
 				thumbs	: {
-					width	: 130,
-					height	: 89,
+					width	: 130, //260
+					height	: 89,  //178
 				}
 			}
 		});
