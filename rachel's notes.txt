@@ -8,7 +8,7 @@ site to a bunch of different pages with assorted layouts, color schemes and
 logos some open in new tabs, some don't (ex: ce.louisiana.edu vs
 museum.louisiana.edu)
 
-!!!2) LANGUAGE about us page: what the heck is "economic
+(2) LANGUAGE about us page: what the heck is "economic
 impact" and "sacs-coc reaffirmation of accreditation" and "strategic plan" and
 what's a "university organizational chart"--is that a chart of the different
 organizations in the university? the page is a little mixed up, speaking to a
